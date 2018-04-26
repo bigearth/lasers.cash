@@ -96,200 +96,202 @@
   background: #247BA0;
 }
 
-.foreground-2-d {
-  color: #F3FFBD;
+
+
+
+
+
+
+
+.background-27-a {
+  background: #34F6F2;
 }
 
-.background-3-a {
-  background: #05668D;
+.foreground-27-a {
+  color: #78E3FD;
 }
 
-.foreground-3-a {
-  color: #02C39A;
+.background-27-b {
+  background: #D1F5FF;
 }
 
-.background-3-b {
-  background: #F0F3BD;
+.foreground-27-b {
+  color: #EEF8FF;
 }
 
-.foreground-3-b {
-  color: #028090;
+.background-27-c {
+  background: #817F75;
 }
 
-.background-3-c {
-  background: #02C39A;
+.foreground-27-c {
+  color: #B3B5BB;
 }
 
-.foreground-3-c {
-  color: #00A896;
+.background-27-d {
+  background: #C5D9E2;
+}
+.foreground-27-d {
+  color: #CDFFF9;
 }
 
-.background-3-d {
-  background: #028090;
+.background-28-a {
+  background: #305252;
 }
 
-.foreground-3-d {
-  color: #F0F3BD;
+.foreground-28-a {
+  color: #373E40;
 }
 
-.background-4-a {
-  background: #011627;
+.background-28-b {
+  background: #488286;
 }
 
-.foreground-4-a {
-  color: #FDFFFC;
+.foreground-28-b {
+  color: #B7D5D4;
 }
 
-.background-4-b {
-  background: #2EC4B6;
+.background-28-c {
+  background: #ECE8EF;
 }
 
-.foreground-4-b {
-  color: #011627;
+.foreground-28-c {
+  color: #E3EBFF;
 }
 
-.background-4-c {
-  background: #FF9F1C;
+.background-28-d {
+  background: #E7F0FF;
+}
+.foreground-28-d {
+  color: #DC493A;
 }
 
-.foreground-4-c {
-  color: #E71D36;
+.background-29-a {
+  background: #556F7A;
 }
 
-.background-4-d {
-  background: #E71D36;
+.foreground-29-a {
+  color: #798086;
 }
 
-.foreground-4-d {
-  color: #FF9F1C;
+.background-29-b {
+  background: #B79FAD;
 }
 
-.background-5-a {
-  background: #50514F;
+.foreground-29-b {
+  color: #D4AFCD;
 }
 
-.foreground-5-a {
-  color: #F25F5C;
+.background-29-c {
+  background: #C5DAC1;
 }
 
-.background-5-b {
-  background: #70C1B3;
+.foreground-29-c {
+  color: #BCD0C7;
 }
 
-.foreground-5-b {
-  color: #50514F;
+.background-29-d {
+  background: #A9B2AC;
+}
+.foreground-29-d {
+  color: #898980;
 }
 
-.background-5-c {
-  background: #FFE066;
+
+
+.background-30-a {
+  background: #FD5200;
 }
 
-.foreground-5-c {
-  color: #247BA0;
+.foreground-30-a {
+  color: #DB3A34;
 }
 
-.background-5-d {
-  background: #F25F5C;
+.background-30-b {
+  background: #00FFE7;
 }
 
-.foreground-5-d {
-  color: #FFE066;
+.foreground-30-b {
+  color: #00CFC1;
 }
 
-.background-6-a {
-  background: #E63946;
+.background-30-c {
+  background: #FFC857;
 }
 
-.foreground-6-a {
-  color: #F1FAEE;
+.foreground-30-c {
+  color: #323031;
 }
 
-.background-6-b {
-  background: #A8DADC;
+.background-30-d {
+  background: #DE0D92;
+}
+.foreground-30-d {
+  color: #4D6CFA;
 }
 
-.foreground-6-b {
-  color: #E63946;
+
+
+.background-31-a {
+  background: #0FFF95;
 }
 
-.background-6-c {
-  background: #457B9D;
+.foreground-31-a {
+  color: #06BA63;
 }
 
-.foreground-6-c {
-  color: #A8DADC;
+.background-31-b {
+  background: #C86FC9;
 }
 
-.background-6-d {
-  background: #F1FAEE;
+.foreground-31-b {
+  color: #8E518D;
 }
 
-.foreground-6-d {
-  color: #1D3557;
+.background-31-c {
+  background: #087F8C;
 }
 
-.background-7-a {
-  background: #FFCDB2;
+.foreground-31-c {
+  color: #5AAA95;
 }
 
-.foreground-7-a {
-  color: #B5838D;
+.background-31-d {
+  background: #CBC0AD;
+}
+.foreground-31-d {
+  color: #361D2E;
 }
 
-.background-7-b {
-  background: #6D6875;
+.background-32-a {
+  background: #E83F6F;
 }
 
-.foreground-7-b {
-  color: #FFCDB2;
+.foreground-32-a {
+  color: #2274A5;
 }
 
-.background-7-c {
-  background: #FFB4A2;
+.background-32-b {
+  background: #32936F;
 }
 
-.foreground-7-c {
-  color: #6D6875;
+.foreground-32-b {
+  color: #FFFFFF;
 }
 
-.background-7-d {
-  background: #B5838D;
+.background-32-c {
+  background: #fe5f55;
 }
 
-.foreground-7-d {
-  color: #FFB4A2;
+.foreground-32-c {
+  color: #d6d1b1;
 }
 
-.background-8-a {
-  background: #BCE784;
+.background-32-d {
+  background: #77625C;
 }
 
-.foreground-8-a {
-  color: #348AA7;
-}
-
-.background-8-b {
-  background: #525174;
-}
-
-.foreground-8-b {
-  color: #BCE784;
-}
-
-.background-8-c {
-  background: #348AA7;
-}
-
-.foreground-8-c {
-  color: #525174;
-}
-
-.background-8-d {
-  background: #513B56;
-}
-
-.foreground-8-d {
-  color: #5DD39E;
+.foreground-32-d {
+  color: #49392C;
 }
 
 .logo {
@@ -299,3 +301,4 @@
 .l-box {
   padding: 10em;
 }
+
