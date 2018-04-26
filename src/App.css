@@ -35,3 +35,39 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.background-a-1 {
+  background: #F3E0EC;
+}
+
+.foreground-a-1 {
+  color: #CA9CE1;
+}
+
+.background-a-2 {
+  background: #F2BEFC;
+}
+
+.foreground-a-2 {
+  color: #685F74;
+}
+
+.background-a-3 {
+  background: #EAD5E6;
+}
+
+.foreground-a-3 {
+  color: #685F74;
+}
+
+.background-a-4 {
+  background: #CA9CE1;
+}
+
+.foreground-a-4 {
+  color: #F3E0EC;
+}
+
+.logo {
+  font-size: 4em;
+}

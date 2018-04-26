@@ -24,29 +24,29 @@ class App extends Component {
       <div className="App">
         <div className="pure-g">
           <div className="pure-u-1-2">
-            <div className="l-box">
-              <img src='./logo.png' className="App-logo" alt="logo" />
-              <h1 className="App-title">BITBOX</h1>
+            <div className="l-box background-a-1">
+              <i className="logo fas fa-cube foreground-a-1" />
+              <h1 className="App-title foreground-a-1">BITBOX</h1>
             </div>
           </div>
           <div className="pure-u-1-2">
-            <div className="l-box">
-              <img src='./logo.png' className="App-logo" alt="logo" />
-              <h1 className="App-title">BITBOX</h1>
+            <div className="l-box background-a-2">
+              <i className="logo fas fa-cube foreground-a-2" />
+              <h1 className="App-title foreground-a-2">BITBOX</h1>
             </div>
           </div>
         </div>
         <div className="pure-g">
           <div className="pure-u-1-2">
-            <div className="l-box">
-              <img src='./logo.png' className="App-logo" alt="logo" />
-              <h1 className="App-title">BITBOX</h1>
+            <div className="l-box background-a-3">
+              <i className="logo fas fa-cube foreground-a-3" />
+              <h1 className="App-title foreground-a-3">BITBOX</h1>
             </div>
           </div>
           <div className="pure-u-1-2">
-            <div className="l-box">
-              <img src='./logo.png' className="App-logo" alt="logo" />
-              <h1 className="App-title">BITBOX</h1>
+            <div className="l-box background-a-4">
+              <i className="logo fas fa-cube foreground-a-4" />
+              <h1 className="App-title foreground-a-4">BITBOX</h1>
             </div>
           </div>
         </div>
