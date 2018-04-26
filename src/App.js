@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.png';
 
 import './App.css';
 let BITBOXCli = require('bitbox-cli/lib/bitboxcli').default;
@@ -89,7 +88,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src='./logo.png' className="App-logo" alt="logo" />
           <h1 className="App-title">Hello BITBOX</h1>
         </header>
         <div className='App-content'>
