@@ -36,36 +36,68 @@
   to { transform: rotate(360deg); }
 }
 
-.background-a-1 {
+.background-1-a {
   background: #F3E0EC;
 }
 
-.foreground-a-1 {
+.foreground-1-a {
   color: #CA9CE1;
 }
 
-.background-a-2 {
+.background-1-b {
   background: #F2BEFC;
 }
 
-.foreground-a-2 {
+.foreground-1-b {
   color: #685F74;
 }
 
-.background-a-3 {
+.background-1-c {
   background: #EAD5E6;
 }
 
-.foreground-a-3 {
+.foreground-1-c {
   color: #685F74;
 }
 
-.background-a-4 {
+.background-1-d {
   background: #CA9CE1;
 }
 
-.foreground-a-4 {
+.foreground-1-d {
   color: #F3E0EC;
+}
+
+.background-2-a {
+  background: #FF1654;
+}
+
+.foreground-2-a {
+  color: #247BA0;
+}
+
+.background-2-b {
+  background: #F3FFBD;
+}
+
+.foreground-2-b {
+  color: #B2DBBF;
+}
+
+.background-2-c {
+  background: #B2DBBF;
+}
+
+.foreground-2-c {
+  color: #FF1654;
+}
+
+.background-2-d {
+  background: #247BA0;
+}
+
+.foreground-2-d {
+  color: #F3FFBD;
 }
 
 .logo {
