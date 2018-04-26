@@ -20,7 +20,7 @@ class App extends Component {
   }
 
   render() {
-    let langs = [1,2];
+    let langs = [1, 2, 3, 4, 5, 6, 7, 8];
     let v = langs[Math.floor(Math.random()*langs.length)];
     console.log(v)
 
