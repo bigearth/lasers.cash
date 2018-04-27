@@ -20,9 +20,8 @@ class App extends Component {
   }
 
   render() {
-    let langs = [32];
-    let v = langs[Math.floor(Math.random()*langs.length)];
-    console.log(v)
+    let nums = [1, 2, 3, 4, 5, 6, 7, 8, 27, 28, 29, 30, 31, 32];
+    let v = nums[Math.floor(Math.random()*nums.length)];
 
     return (
       <div className="App">
